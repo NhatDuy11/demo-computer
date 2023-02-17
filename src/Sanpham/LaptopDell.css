@@ -1,0 +1,116 @@
+/* .sanpham{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+   
+
+} */
+/* .sanpham img{
+    width:300px;
+    padding: 30px;
+    transition: transform;
+    cursor: pointer; */
+    /* border: 1px solid silver; */
+   
+
+/* } */
+/* .sanpham img:hover{
+    -ms-transform: scale(1.5);
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}
+.title h1{
+    color: red;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration:underline;
+    text-align: center; */
+    /* margin-top:-20px; */
+   
+/* } */
+
+/* .allsp{
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box; */
+    /* justify-content: space-evenly; */
+    /* overflow-y: hidden; */
+   /* justify-content: center;
+   object-fit: cover;
+   margin-top: 50px;
+   width: auto;
+    */
+   
+ 
+/* } */
+/* .sanpham{
+    margin: 30px 30px 10px 20px;
+    border: 1px solid #ededed;
+    display: inline-block;
+    overflow-x: hidden;
+    height: 350px;
+    width: auto;
+    
+   
+} */
+/* .sanpham p{
+    text-align: center;
+}
+.sanpham button{
+   padding: 5px;
+   margin-left: 90px;
+   background-color: #ededed;
+   color: black;
+   transition: transform;
+   
+   
+  
+}
+.sanpham button:hover{
+    color: red;
+    -ms-transform: scale(0.5);
+     transform: scale(1.2);
+} */
+.image img{
+    height: 250px;
+    width: 100%;
+}
+.image{
+    background-color: white;
+    margin-top: 10px;
+    border: solid 1px #ededed;
+    transition: transform .2s;
+}
+/* .content{
+    border: solid 1px #ededed;
+} */
+.image p {
+    text-align: center;
+   
+}
+.price {
+    color: red;
+}
+.lap {
+    margin-top: 16  px;
+}
+.image img:hover{
+-ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.1); /* Safari 3-8 */
+  transform: scale(0.9);
+}
+.content h1{
+    text-align: center;
+    color: red;
+    font-size: 25px;
+    margin-top: 10px;
+    text-decoration: underline;
+
+}
+.buttons button{
+    border-radius: 10px;
+}
+.buttons button:hover{
+    background-color: orange;
+}

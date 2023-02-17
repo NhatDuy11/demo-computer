@@ -1,0 +1,46 @@
+
+.header{
+    width:100%;
+    display: flex;
+    flex-wrap: wrap;
+    ;
+
+}
+.header img{
+    width: 150px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+.search{
+    flex-grow: 1;
+    justify-content: flex-end;
+    display: flex;
+   
+    
+    
+}
+.search input{
+    height: 35px;
+    text-align: center;
+    margin:50px;
+    width: 300px;
+    
+   
+}
+.glass{
+    position: absolute;
+    top:60px;
+    right: 280px;
+    font-size: 20px;
+    
+    padding-left: 10px;
+   
+    
+}
+input:focus-visible{
+    outline:none;
+    
+}
+.carousel-item1{
+height: 1000px;
+}

@@ -1,0 +1,14 @@
+.products{
+    display: flex;
+    justify-content: center;
+
+
+}
+.products button{
+    padding: 3px;
+    margin: 5px;
+    border-radius: 10px;
+}
+.products button:hover{
+    background-color: orange;
+}

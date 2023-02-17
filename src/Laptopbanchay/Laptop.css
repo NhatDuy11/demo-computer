@@ -1,0 +1,28 @@
+.spnew_ img{
+    width: 400px;
+    height:300px;
+}
+.spnew h1{
+    padding-top: 10px;
+    color: red;
+    text-decoration: underline;
+    font-size: 34px;
+    padding-left: 30px;
+  
+    /* margin-bottom: 20px; */
+}
+.dellsp p {
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    margin: 10px;
+
+}
+.spnew{
+   /* background-color: burlywood; */
+    background-repeat: no-repeat;
+    width: auto;
+    height: 80%;
+    /* margin-bottom: 50px; */
+    
+}

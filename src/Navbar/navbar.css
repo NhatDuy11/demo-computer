@@ -1,0 +1,47 @@
+.nav{
+    display: flex;
+    
+    justify-content: center;
+    margin-top: -50px;
+    width: auto;
+   
+    
+  
+}
+.ul_nav{
+    display: flex;
+    border: 1px solid black;
+    width: 1500px;
+    justify-content: center;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    background-color: orange;
+    
+ 
+    text-align: center;
+    
+    
+
+
+    
+
+   
+    
+    
+
+    
+}
+
+
+.ul_nav a{
+    text-decoration: none;
+    padding:5px;
+    border-right: 2px solid black;
+    color:white;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+.navbar{
+    min-height: auto;
+}

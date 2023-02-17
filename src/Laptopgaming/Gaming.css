@@ -1,0 +1,42 @@
+.image img{
+    height: 250px;
+    width: 100%;
+}
+.image{
+    background-color: white;
+    margin-top: 10px;
+    border: solid 1px #ededed;
+    transition: transform .2s;
+}
+/* .content{
+    border: solid 1px #ededed;
+} */
+.image p {
+    text-align: center;
+   
+}
+.price {
+    color: red;
+}
+.lap {
+    margin-top: 16  px;
+}
+.image img:hover{
+-ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.1); /* Safari 3-8 */
+  transform: scale(0.9);
+}
+.content h1{
+    text-align: center;
+    color: red;
+    font-size: 25px;
+    margin-top: 10px;
+    text-decoration: underline;
+
+}
+.buttons button{
+    border-radius: 10px;
+}
+.buttons button:hover{
+    background-color: orange;
+}
